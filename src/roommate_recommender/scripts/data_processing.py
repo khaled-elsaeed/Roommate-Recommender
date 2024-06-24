@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import LabelEncoder, MinMaxScaler, OrdinalEncoder
 import csv
 
 def read_data(file_path):
