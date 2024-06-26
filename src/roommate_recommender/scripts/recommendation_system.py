@@ -1,118 +1,57 @@
 import pandas as pd
-import numpy as np
-from scripts.similarity_calculation import cosine_similarity
+from sklearn.metrics.pairwise import cosine_similarity
 
-from sklearn.neighbors import KNeighborsClassifier
+# Function to compute user-user similarity matrix
+def compute_similarity_matrix(df):
+    # Select relevant columns for similarity computation
+    features = ['Bedtime_Preference', 'Wake_Up_Time_Preference', 'Planned_Study_Time', 
+                'Private_Time_Requirements', 'Guest_Frequency_Preference', 
+                'Attitude_towards_Roommate_Smoking', 'Ideal_Study_Environment_Description_encoded', 
+                'Attitude_towards_Borrowing_Sharing', 'Description_of_Personal_Room_At_Home_encoded', 
+                'Desired_Room_Attributes_encoded', 'Study_Time_Preference', 
+                'Conflict_Handling_Method_encoded', 'Communication_Preference_with_Roommate', 
+                'Age_normalized']
 
-def get_top_n_similar_users(user_id, user_similarity_df, cluster_labels, n=3):
-    """
-    Get the top N users most similar to the given user.
+    # Compute similarity matrix using cosine similarity
+    similarity_matrix = cosine_similarity(df[features])
 
-    Parameters:
-    user_id (int): The target user ID.
-    user_similarity_df (pandas.DataFrame): The user similarity DataFrame.
-    cluster_labels (numpy.ndarray): Array of cluster labels for each user.
-    n (int): Number of top similar users to return.
+    # Convert similarity matrix to dataframe for easier manipulation
+    similarity_df = pd.DataFrame(similarity_matrix, index=df['id'], columns=df['id'])
+    return similarity_df
 
-    Returns:
-    pandas.DataFrame: DataFrame containing top N similar users with their cluster labels and similarity scores.
-    """
-    similar_users = user_similarity_df.iloc[user_id].sort_values(ascending=False)
-    similar_users = similar_users.drop(user_id)  # Exclude the target user
-    top_similar_users = similar_users.head(n)
-    result = pd.DataFrame({
-        'UserID': top_similar_users.index,
-        'ClusterLabel': cluster_labels[top_similar_users.index],
-        'SimilarityScore': top_similar_users.values
-    })
-    return result
+# Function to get top N similar users with their similarity scores
+def get_top_similar_users(similarity_df, user_id, N=5):
+    # Get top N similar users (excluding the user itself)
+    similar_users = similarity_df[user_id].sort_values(ascending=False)[1:N+1]
+    similar_users_list = list(similar_users.index)
+    similar_scores_list = list(similar_users.values)
+    return list(zip(similar_users_list, similar_scores_list))
 
-def intra_recommendation(user_id, cluster_labels, user_similarity_df, n=3):
-    """
-    Get intra-cluster recommendations for the given user.
+# Function to recommend users within and outside the same cluster with scores
+def recommend_users(df, similarity_df, user_id, N=3):
+    user_cluster_label = df[df['id'] == user_id]['cluster_label'].values[0]
+    
+    # Get top similar users
+    similar_users = get_top_similar_users(similarity_df, user_id, N*2)
 
-    Parameters:
-    user_id (int): The target user ID.
-    cluster_labels (numpy.ndarray): Array of cluster labels for each user.
-    user_similarity_df (pandas.DataFrame): The user similarity DataFrame.
-    n (int): Number of top similar users to return.
+    # Separate similar users into intra-cluster and inter-cluster
+    intra_cluster_recommendations = []
+    inter_cluster_recommendations = []
 
-    Returns:
-    pandas.DataFrame: DataFrame containing top N intra-cluster similar users with their cluster labels and similarity scores.
-    """
-    cluster_id = cluster_labels[user_id]
-    same_cluster_users = np.where(cluster_labels == cluster_id)[0]
-    similar_users = user_similarity_df.iloc[user_id, same_cluster_users].sort_values(ascending=False)
-    similar_users = similar_users.drop(user_id)  # Exclude the target user
-    top_similar_users = similar_users.head(n)
-    result = pd.DataFrame({
-        'UserID': top_similar_users.index,
-        'ClusterLabel': cluster_labels[top_similar_users.index],
-        'SimilarityScore': top_similar_users.values
-    })
-    return result
-
-def inter_recommendation(user_id, user_similarity_df, cluster_labels, n=3):
-    """
-    Get inter-cluster recommendations for the given user.
-
-    Parameters:
-    user_id (int): The target user ID.
-    user_similarity_df (pandas.DataFrame): The user similarity DataFrame.
-    cluster_labels (numpy.ndarray): Array of cluster labels for each user.
-    n (int): Number of top similar users to return.
-
-    Returns:
-    pandas.DataFrame: DataFrame containing top N inter-cluster similar users with their cluster labels and similarity scores.
-    """
-    return get_top_n_similar_users(user_id, user_similarity_df, cluster_labels, n)
-
-def recommendation(user_data, cluster_labels, user_similarity_df, new_user_data=None, n=3):
-    """
-    Get recommendations for a user, handling both existing and newcomer cases.
-
-    Parameters:
-    user_data (numpy.ndarray): The user data matrix.
-    cluster_labels (numpy.ndarray): Array of cluster labels for each user.
-    user_similarity_df (pandas.DataFrame): The user similarity DataFrame.
-    new_user_data (numpy.ndarray, optional): The data for the newcomer.
-    n (int): Number of top similar users to return.
-
-    Returns:
-    pandas.DataFrame: DataFrame containing top N recommendations with their cluster labels and similarity scores, 
-                      and the cluster label for the newcomer.
-    """
-    if new_user_data is not None:
-        if len(new_user_data) != user_data.shape[1]:
-            raise ValueError(f"new_user_data must have {user_data.shape[1]} features.")
-
-        knn = KNeighborsClassifier(n_neighbors=1)
-        knn.fit(user_data, cluster_labels)
-        new_user_cluster = knn.predict([new_user_data])[0]
-
-        extended_data = np.vstack([user_data, new_user_data])
-        extended_similarity = cosine_similarity(extended_data)
-        extended_similarity_df = pd.DataFrame(extended_similarity)
-
-        new_user_id = len(user_data)
-        intra_recommended_users = intra_recommendation(new_user_id, np.append(cluster_labels, new_user_cluster), extended_similarity_df, n)
-
-        if intra_recommended_users.empty:
-            inter_users = inter_recommendation(new_user_id, extended_similarity_df, np.append(cluster_labels, new_user_cluster), n)
-            inter_users['NewUserClusterLabel'] = new_user_cluster
-            return inter_users
+    for similar_user, score in similar_users:
+        similar_user_cluster_label = df[df['id'] == similar_user]['cluster_label'].values[0]
+        if similar_user_cluster_label == user_cluster_label:
+            intra_cluster_recommendations.append((similar_user, score))
         else:
-            intra_users = intra_recommendation(new_user_id, np.append(cluster_labels, new_user_cluster), extended_similarity_df, n)
-            intra_users['NewUserClusterLabel'] = new_user_cluster
-            return intra_users
-    else:
-        user_id = user_data
-        intra_recommended_users = intra_recommendation(user_id, cluster_labels, user_similarity_df, n)
-        if intra_recommended_users.empty:
-            inter_users = inter_recommendation(user_id, user_similarity_df, cluster_labels, n)
-            inter_users['NewUserClusterLabel'] = cluster_labels[user_id]
-            return inter_users
-        else:
-            intra_users = intra_recommendation(user_id, cluster_labels, user_similarity_df, n)
-            intra_users['NewUserClusterLabel'] = cluster_labels[user_id]
-            return intra_users
+            inter_cluster_recommendations.append((similar_user, score))
+        
+        # Stop when we have enough recommendations
+        if len(intra_cluster_recommendations) >= N and len(inter_cluster_recommendations) >= N:
+            break
+
+    # Ensure we have exactly N recommendations from each category
+    intra_cluster_recommendations = intra_cluster_recommendations[:N]
+    inter_cluster_recommendations = inter_cluster_recommendations[:N]
+
+    return intra_cluster_recommendations, inter_cluster_recommendations
+
