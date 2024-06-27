@@ -95,10 +95,11 @@ features_subset = [
     'Study_Time_Preference', 'Conflict_Handling_Method_encoded', 'Communication_Preference_with_Roommate',
     'Age'
 ]
+
 values_subset = [
-    'Around midnight', 'As late as possible', 'Evening', 'Some', 'Rarely', 'Medicine', 'Yes',
-    'Very quiet', 'Ask before sharing', 'Clean and organized', 'Social & quiet', 'No preference', 'Blunt',
-    'Face-to-face', 21
+    "Before midnight", "at any time", "Morning", "Significant", "Never",
+    "Pharmacy", "No", "Very quiet", "Ask before sharing", "Neat",
+    "Study oriented", "Total quiet", "Hint jokingly", "Face-to-face", 19
 ]
 
 # Encode the subset of values

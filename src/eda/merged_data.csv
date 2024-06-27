@@ -1,0 +1,257 @@
+Bedtime_Preference,Wake_Up_Time_Preference,Planned_Study_Time_Preference,Private_Time_Requirements,Guest_Frequency_Preference,Faculty,Attitude_towards_Roommate_Smoking,Ideal_Study_Environment_Description,Attitude_towards_Borrowing_Sharing,Description_of_Personal_Room_At_Home,Desired_Room_Attributes,Study_Time_Preference,Conflict_Handling_Method,Communication_Preference_with_Roommate,Age,id,cluster_label
+Around midnight,As late as possible,Evening,Some,Rarely,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,No preference,Hint jokingly,Face-to-face,21,2,0.0
+After midnight,Somewhat early,Afternoon,Significant,Frequently,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,No preference,Avoid conflict,Face-to-face,19,3,0.0
+After midnight,Somewhat early,Evening,Significant,Often,Computer Science,Maybe,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Avoid conflict,Face-to-face,21,4,0.0
+After midnight,Very early,Late night,Very little,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Background noise,Avoid conflict,Face-to-face,20,5,0.0
+After midnight,Late,Late night,Some,Rarely,Computer Science,No,Very quiet,Prefer personal items,Neat,Social & quiet,No preference,Hint jokingly,Face-to-face,19,6,0.0
+After midnight,Somewhat early,Evening,Some,Sometimes,Computer Science,Maybe,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Blunt,Face-to-face,20,7,0.0
+After midnight,Late,Evening,Significant,Sometimes,Computer Science,Yes,Very quiet,Prefer personal items,Neat,Social & quiet,No preference,Avoid conflict,Face-to-face,22,8,
+After midnight,Late,Morning,Significant,Sometimes,Computer Science,Yes,Very quiet,Prefer personal items,Clean and organized,Social gathering,Total quiet,Calm,Face-to-face,20,9,0.0
+Around midnight,Very early,Evening,Very little,Never,Computer Science,Yes,Very quiet,Prefer personal items,Clean and organized,Study oriented,Total quiet,Blunt,Face-to-face,20,10,0.0
+Around midnight,Somewhat early,Morning,Some,Sometimes,Computer Science,No,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Calm,Face-to-face,19,11,0.0
+Around midnight,Late,Evening,Significant,Rarely,Computer Science,Maybe,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Calm,Face-to-face,20,12,0.0
+Around midnight,As late as possible,Afternoon,Significant,Sometimes,Computer Science,Yes,Very quiet,Prefer personal items,Neat,Social & quiet,Total quiet,Blunt,Face-to-face,20,13,0.0
+After midnight,Late,Late night,Significant,Never,Computer Science,Maybe,Background noise,Ask before sharing,Neat,Study oriented,Background noise,Blunt,Face-to-face,18,14,0.0
+Around midnight,Late,Afternoon,Some,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Blunt,Face-to-face,19,15,0.0
+After midnight,Somewhat early,Afternoon,Some,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Blunt,Face-to-face,19,16,0.0
+Around midnight,Somewhat early,Evening,Some,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,No preference,Blunt,Face-to-face,19,17,0.0
+After midnight,Somewhat early,Evening,Some,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Blunt,Face-to-face,20,18,0.0
+Around midnight,Somewhat early,Late night,Some,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Calm,Face-to-face,18,19,0.0
+Before midnight,Somewhat early,Late night,Some,Rarely,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,19,20,0.0
+Around midnight,Somewhat early,Evening,Very little,Sometimes,Computer Science,Yes,Background noise,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Blunt,Face-to-face,19,21,0.0
+Around midnight,Somewhat early,Morning,Some,Sometimes,Computer Science,Maybe,Background noise,Ask before sharing,Neat,Social & quiet,Total quiet,Avoid conflict,Face-to-face,19,22,0.0
+After midnight,Late,Afternoon,Some,Sometimes,Computer Science,No,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Background noise,Avoid conflict,Face-to-face,19,23,0.0
+After midnight,Somewhat early,Late night,Significant,Sometimes,Computer Science,Yes,Very quiet,Prefer personal items,Neat,Social & quiet,No preference,Calm,Face-to-face,20,24,0.0
+at any time,As late as possible,Evening,Significant,Sometimes,Computer Science,Maybe,Very quiet,Share freely,Disorganized,Social & quiet,Total quiet,Hint jokingly,Face-to-face,20,25,0.0
+Around midnight,Very early,Morning,Some,Rarely,Computer Science,Yes,Background noise,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Blunt,Face-to-face,18,26,0.0
+After midnight,Late,Late night,Some,Sometimes,Computer Science,Maybe,Background noise,Ask before sharing,Neat,Social & quiet,Total quiet,Avoid conflict,Face-to-face,20,27,0.0
+Before midnight,Very early,Evening,Significant,Never,Computer Science,No,Very quiet,Prefer personal items,Clean and organized,Study oriented,Total quiet,Blunt,Face-to-face,20,28,0.0
+After midnight,Late,Late night,Significant,Often,Computer Science,No,High noise tolerance,Ask before sharing,Neat,Social & quiet,No preference,Blunt,Face-to-face,20,29,0.0
+After midnight,Late,Evening,Some,Sometimes,Computer Science,No,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Calm,Face-to-face,18,30,0.0
+Before midnight,Somewhat early,Afternoon,Some,Rarely,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Avoid conflict,Face-to-face,19,31,0.0
+After midnight,Late,Late night,Significant,Rarely,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Calm,Face-to-face,20,32,0.0
+Around midnight,Very early,Morning,Some,Sometimes,Computer Science,Yes,High noise tolerance,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Hint jokingly,Face-to-face,21,33,0.0
+Before midnight,Very early,Morning,Some,Sometimes,Computer Science,Maybe,Very quiet,Share freely,Neat,Social & quiet,Total quiet,Avoid conflict,Face-to-face,21,34,0.0
+After midnight,Late,Late night,Significant,Sometimes,Computer Science,No,Very quiet,Prefer personal items,Neat,Social & quiet,Total quiet,Blunt,Face-to-face,19,35,0.0
+Around midnight,Somewhat early,Morning,Some,Sometimes,Computer Science,Maybe,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Avoid conflict,Face-to-face,19,36,0.0
+Around midnight,As late as possible,Late night,Some,Often,Computer Science,No,Very quiet,Share freely,Cluttered,Social & quiet,No preference,Calm,Face-to-face,18,37,0.0
+Around midnight,Somewhat early,Morning,Some,Sometimes,Computer Science,No,Background noise,Ask before sharing,Neat,Social & quiet,Background noise,Calm,Face-to-face,19,38,0.0
+After midnight,Late,Late night,Significant,Sometimes,Computer Science,No,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Avoid conflict,Face-to-face,23,39,
+After midnight,Somewhat early,Late night,Some,Sometimes,Computer Science,Yes,Very quiet,Share freely,Neat,Social & quiet,No preference,Avoid conflict,Face-to-face,19,40,0.0
+Around midnight,Somewhat early,Afternoon,Significant,Never,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,No preference,Blunt,Face-to-face,19,41,0.0
+After midnight,Somewhat early,Afternoon,Some,Sometimes,Computer Science,Maybe,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Background noise,Calm,Face-to-face,18,42,0.0
+Around midnight,Somewhat early,Morning,Some,Rarely,Medicine,No,Very quiet,Ask before sharing,Cluttered,Study oriented,Total quiet,Hint jokingly,Face-to-face,18,43,1.0
+Around midnight,Somewhat early,Evening,Significant,Sometimes,Computer Science,No,Very quiet,Share freely,Neat,Social & quiet,Total quiet,Blunt,Text or messaging apps,18,44,0.0
+Before midnight,Somewhat early,Morning,Some,Rarely,Computer Science,Yes,Very quiet,Prefer personal items,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,18,45,0.0
+Around midnight,Somewhat early,Late night,Significant,Rarely,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Background noise,Blunt,Face-to-face,20,46,0.0
+Before midnight,Very early,Morning,Very little,Never,Textile Engineering,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Background noise,Calm,Face-to-face,17,47,
+Around midnight,Very early,Evening,Significant,Often,Computer Science,Maybe,Very quiet,Ask before sharing,Cluttered,Study oriented,Total quiet,Calm,Face-to-face,18,48,0.0
+Around midnight,Late,Late night,Some,Sometimes,Computer Science,No,Very quiet,Ask before sharing,Cluttered,Social gathering,No preference,Blunt,Face-to-face,18,49,0.0
+Before midnight,Very early,Morning,Some,Sometimes,Computer Science,Maybe,Background noise,Ask before sharing,Neat,Social & quiet,No preference,Blunt,Face-to-face,19,50,0.0
+After midnight,Somewhat early,Morning,Some,Sometimes,Computer Science,No,Very quiet,Share freely,Clean and organized,Social & quiet,Total quiet,Calm,Face-to-face,19,51,0.0
+at any time,Somewhat early,Evening,Significant,Often,Computer Science,No,Background noise,Ask before sharing,Neat,Social & quiet,No preference,Hint jokingly,Face-to-face,18,52,0.0
+After midnight,As late as possible,Late night,Some,Frequently,Computer Science,No,High noise tolerance,Ask before sharing,Disorganized,Study oriented,No preference,Blunt,Face-to-face,17,53,
+at any time,at any time,Late night,Very little,Often,Computer Science,No,Very quiet,Ask before sharing,Disorganized,Social & quiet,Background noise,Avoid conflict,Face-to-face,20,54,0.0
+After midnight,Somewhat early,Afternoon,Some,Rarely,Computer Science,No,Very quiet,Ask before sharing,Neat,Social & quiet,No preference,Hint jokingly,Face-to-face,19,55,0.0
+After midnight,Somewhat early,Morning,Some,Frequently,Medicine,Yes,High noise tolerance,Ask before sharing,Clean and organized,Social & quiet,No preference,Blunt,Face-to-face,19,56,1.0
+Before midnight,Somewhat early,Morning,Some,Often,Medicine,Yes,Very quiet,Ask before sharing,Cluttered,Study oriented,Total quiet,Avoid conflict,Face-to-face,20,57,1.0
+Around midnight,Somewhat early,Evening,Significant,Sometimes,Medicine,Yes,Very quiet,Share freely,Cluttered,Social & quiet,Total quiet,Hint jokingly,Face-to-face,19,58,1.0
+Around midnight,Somewhat early,Evening,Some,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Social gathering,Total quiet,Blunt,Face-to-face,20,59,0.0
+After midnight,Somewhat early,Evening,Significant,Rarely,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,19,60,1.0
+Around midnight,Somewhat early,Evening,Very little,Never,Medicine,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Background noise,Calm,Face-to-face,20,61,1.0
+After midnight,Late,Late night,Some,Often,Medicine,Yes,Background noise,Prefer personal items,Neat,Social & quiet,Background noise,Avoid conflict,Face-to-face,20,62,1.0
+After midnight,As late as possible,Late night,Some,Sometimes,Computer Science,Maybe,Background noise,Prefer personal items,Neat,Social & quiet,No preference,Hint jokingly,Face-to-face,21,63,0.0
+Around midnight,Somewhat early,Morning,Some,Never,Medicine,Maybe,Background noise,Ask before sharing,Clean and organized,Social & quiet,No preference,Calm,Face-to-face,19,64,1.0
+Around midnight,As late as possible,Afternoon,Some,Rarely,Medicine,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,19,65,1.0
+Before midnight,Very early,Morning,Some,Sometimes,Medicine,Yes,Very quiet,Prefer personal items,Clean and organized,Social & quiet,Total quiet,Blunt,Face-to-face,20,66,1.0
+Before midnight,Somewhat early,Morning,Some,Sometimes,Business,Yes,Very quiet,Ask before sharing,Cluttered,Social & quiet,Background noise,Hint jokingly,Face-to-face,23,67,
+Around midnight,Somewhat early,Evening,Significant,Rarely,Science,No,Very quiet,Prefer personal items,Cluttered,Study oriented,No preference,Avoid conflict,Text or messaging apps,23,68,
+After midnight,Very early,Morning,Some,Never,Computer Science,Yes,Background noise,Ask before sharing,Neat,Social & quiet,No preference,Hint jokingly,Face-to-face,19,69,0.0
+After midnight,Late,Evening,Significant,Rarely,Engineering,No,Very quiet,Ask before sharing,Neat,Study oriented,Background noise,Avoid conflict,Face-to-face,23,70,
+Before midnight,Late,Afternoon,Significant,Rarely,Medicine,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Blunt,Face-to-face,19,71,1.0
+Around midnight,Somewhat early,Morning,Some,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,No preference,Blunt,Face-to-face,20,72,0.0
+After midnight,Late,Evening,Some,Sometimes,Computer Science,Yes,Very quiet,Prefer personal items,Neat,Social & quiet,Background noise,Hint jokingly,Face-to-face,20,73,0.0
+Around midnight,Somewhat early,Late night,Some,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,No preference,Calm,Face-to-face,19,74,1.0
+After midnight,Late,Evening,Some,Sometimes,Computer Science,No,Background noise,Ask before sharing,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,19,75,0.0
+at any time,at any time,Late night,Some,Sometimes,Computer Science,No,Background noise,Ask before sharing,Neat,Social & quiet,Background noise,Blunt,Text or messaging apps,21,76,0.0
+at any time,at any time,Evening,Significant,Sometimes,Computer Science,No,High noise tolerance,Ask before sharing,Clean and organized,Study oriented,No preference,Blunt,Face-to-face,20,77,0.0
+After midnight,Somewhat early,Afternoon,Some,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Background noise,Hint jokingly,Face-to-face,20,78,1.0
+at any time,Somewhat early,Late night,Some,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Neat,Study oriented,No preference,Hint jokingly,Face-to-face,18,79,1.0
+Around midnight,Somewhat early,Late night,Some,Sometimes,Medicine,No,Very quiet,Ask before sharing,Neat,Study oriented,No preference,Blunt,Face-to-face,19,80,1.0
+Before midnight,Very early,Morning,Very little,Never,Business,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Hint jokingly,Face-to-face,23,81,
+Around midnight,Somewhat early,Evening,Some,Rarely,Medicine,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Avoid conflict,Face-to-face,20,82,1.0
+After midnight,at any time,Evening,Some,Frequently,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Background noise,Blunt,Text or messaging apps,19,83,0.0
+at any time,at any time,Late night,Significant,Sometimes,Computer Science,Yes,Very quiet,Prefer personal items,Neat,Social & quiet,Total quiet,Calm,Face-to-face,19,84,0.0
+Around midnight,Somewhat early,Morning,Some,Sometimes,Dentistry,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Blunt,Face-to-face,21,85,0.0
+at any time,Somewhat early,Evening,Some,Rarely,Dentistry,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Blunt,Face-to-face,20,86,0.0
+Around midnight,Somewhat early,Morning,Some,Never,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Study oriented,No preference,Avoid conflict,Face-to-face,19,87,0.0
+Around midnight,Somewhat early,Morning,Very little,Sometimes,Dentistry,Yes,Background noise,Share freely,Disorganized,Social & quiet,Background noise,Avoid conflict,Face-to-face,21,88,0.0
+After midnight,Somewhat early,Evening,Some,Sometimes,Computer Science,No,Very quiet,Ask before sharing,Neat,Social & quiet,No preference,Calm,Face-to-face,20,89,0.0
+at any time,at any time,Late night,Some,Often,Dentistry,Yes,Very quiet,Share freely,Clean and organized,Social & quiet,Total quiet,Avoid conflict,Text or messaging apps,20,90,0.0
+Before midnight,Somewhat early,Evening,Significant,Sometimes,Computer Science,Maybe,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Calm,Face-to-face,20,91,0.0
+Before midnight,Very early,Morning,Some,Frequently,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Blunt,Face-to-face,21,92,0.0
+After midnight,Late,Evening,Some,Sometimes,Computer Science,No,Very quiet,Ask before sharing,Neat,Social gathering,Background noise,Calm,Face-to-face,19,93,0.0
+at any time,at any time,Morning,Significant,Rarely,Computer Science,Yes,Background noise,Ask before sharing,Neat,Social & quiet,Total quiet,Blunt,Face-to-face,19,94,0.0
+at any time,at any time,Evening,Some,Rarely,Computer Science,Maybe,Background noise,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Hint jokingly,Face-to-face,19,95,0.0
+at any time,at any time,Evening,Some,Sometimes,Dentistry,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Hint jokingly,Text or messaging apps,21,96,0.0
+Before midnight,Very early,Late night,Significant,Rarely,Business,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Hint jokingly,Notes/letters,19,97,0.0
+Before midnight,Very early,Evening,Significant,Sometimes,Business,Maybe,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Avoid conflict,Face-to-face,20,98,0.0
+at any time,Somewhat early,Morning,Some,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Calm,Face-to-face,22,99,
+at any time,at any time,Late night,Some,Sometimes,Computer Science,Yes,Background noise,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Avoid conflict,Face-to-face,22,100,
+at any time,at any time,Morning,Some,Sometimes,Computer Science,Yes,Very quiet,Prefer personal items,Neat,Social & quiet,No preference,Blunt,Face-to-face,23,101,
+Before midnight,Very early,Morning,Some,Sometimes,Engineering,Maybe,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Blunt,Face-to-face,18,102,0.0
+at any time,at any time,Late night,Some,Sometimes,Dentistry,Yes,Very quiet,Ask before sharing,Cluttered,Social & quiet,Total quiet,Avoid conflict,Text or messaging apps,21,103,0.0
+Before midnight,Very early,Morning,Some,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,20,104,0.0
+Before midnight,Somewhat early,Morning,Some,Sometimes,Computer Science,Maybe,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,19,105,0.0
+Around midnight,Late,Late night,Some,Frequently,Dentistry,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,No preference,Hint jokingly,Face-to-face,20,106,0.0
+After midnight,at any time,Evening,Some,Rarely,Dentistry,Maybe,Background noise,Share freely,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,21,107,0.0
+After midnight,Somewhat early,Morning,Some,Rarely,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Hint jokingly,Face-to-face,19,108,0.0
+at any time,Somewhat early,Morning,Significant,Never,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Calm,Text or messaging apps,23,109,
+After midnight,Late,Afternoon,Significant,Sometimes,Computer Science,Yes,Background noise,Ask before sharing,Neat,Social & quiet,Total quiet,Avoid conflict,Text or messaging apps,21,110,0.0
+Before midnight,Somewhat early,Morning,Some,Never,Computer Science,Yes,Very quiet,Prefer personal items,Neat,Study oriented,Total quiet,Hint jokingly,Text or messaging apps,19,111,0.0
+Before midnight,Very early,Morning,Some,Sometimes,Computer Science,Yes,Background noise,Ask before sharing,Neat,Social & quiet,No preference,Hint jokingly,Face-to-face,23,112,
+Around midnight,As late as possible,Morning,Some,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Avoid conflict,Face-to-face,21,113,1.0
+After midnight,at any time,Late night,Significant,Sometimes,Pharmacy,Maybe,Very quiet,Ask before sharing,Neat,Social & quiet,No preference,Blunt,Face-to-face,20,114,1.0
+at any time,at any time,Morning,Significant,Rarely,Computer Science,No,Very quiet,Ask before sharing,Cluttered,Study oriented,Total quiet,Calm,Face-to-face,21,115,0.0
+After midnight,Somewhat early,Evening,Some,Sometimes,Computer Science,No,Background noise,Share freely,Neat,Social & quiet,Background noise,Calm,Face-to-face,21,116,0.0
+at any time,at any time,Morning,Some,Never,Computer Science,No,Very quiet,Prefer personal items,Neat,Social & quiet,Total quiet,Avoid conflict,Face-to-face,20,117,0.0
+at any time,Somewhat early,Evening,Some,Sometimes,Science,Maybe,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Hint jokingly,Face-to-face,20,118,1.0
+Before midnight,Very early,Morning,Some,Rarely,Computer Science,No,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Calm,Face-to-face,23,119,
+Before midnight,Very early,Morning,Significant,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Calm,Face-to-face,23,120,
+at any time,at any time,Morning,Significant,Rarely,Computer Science,No,Very quiet,Prefer personal items,Clean and organized,Study oriented,Total quiet,Hint jokingly,Face-to-face,21,121,0.0
+Before midnight,Somewhat early,Morning,Some,Rarely,Science,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,21,122,1.0
+at any time,at any time,Late night,Some,Rarely,Computer Science,Yes,Background noise,Ask before sharing,Neat,Study oriented,Background noise,Avoid conflict,Face-to-face,20,123,0.0
+Before midnight,Somewhat early,Morning,Some,Rarely,Engineering,Maybe,Very quiet,Ask before sharing,Cluttered,Social & quiet,Total quiet,Avoid conflict,Text or messaging apps,23,124,
+Before midnight,Somewhat early,Evening,Some,Sometimes,Pharmacy,Yes,Background noise,Share freely,Clean and organized,Social & quiet,No preference,Hint jokingly,Face-to-face,18,125,1.0
+at any time,at any time,Late night,Some,Sometimes,Pharmacy,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,No preference,Calm,Face-to-face,19,126,1.0
+at any time,at any time,Evening,Significant,Rarely,Science,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Hint jokingly,Face-to-face,20,127,1.0
+at any time,Somewhat early,Evening,Significant,Never,Science,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Hint jokingly,Face-to-face,18,128,1.0
+Around midnight,Somewhat early,Late night,Significant,Sometimes,Dentistry,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Blunt,Face-to-face,19,129,0.0
+at any time,at any time,Evening,Some,Often,Dentistry,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,No preference,Calm,Face-to-face,19,130,0.0
+at any time,Somewhat early,Evening,Significant,Rarely,Medicine,Yes,Very quiet,Prefer personal items,Clean and organized,Study oriented,Total quiet,Calm,Text or messaging apps,18,131,1.0
+at any time,Somewhat early,Evening,Some,Sometimes,Nursing,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Avoid conflict,Face-to-face,18,132,1.0
+at any time,at any time,Evening,Significant,Frequently,Medicine,Yes,Very quiet,Prefer personal items,Clean and organized,Study oriented,No preference,Calm,Face-to-face,20,133,1.0
+After midnight,Very early,Afternoon,Some,Rarely,Dentistry,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Blunt,Face-to-face,21,134,0.0
+at any time,As late as possible,Evening,Some,Sometimes,Engineering,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Avoid conflict,Face-to-face,21,135,0.0
+Around midnight,at any time,Evening,Some,Often,Medicine,No,Background noise,Ask before sharing,Neat,Social & quiet,No preference,Calm,Face-to-face,21,136,1.0
+Around midnight,Somewhat early,Evening,Significant,Sometimes,Engineering,No,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Blunt,Face-to-face,20,137,0.0
+After midnight,at any time,Evening,Some,Often,Dentistry,Yes,Background noise,Ask before sharing,Clean and organized,Study oriented,No preference,Hint jokingly,Text or messaging apps,21,138,0.0
+Around midnight,Somewhat early,Evening,Significant,Sometimes,Medicine,No,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Avoid conflict,Face-to-face,18,139,1.0
+at any time,Very early,Late night,Some,Rarely,Science,No,Background noise,Share freely,Disorganized,Social & quiet,Background noise,Blunt,Face-to-face,19,140,1.0
+at any time,at any time,Morning,Some,Rarely,Medicine,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,19,141,1.0
+Around midnight,Somewhat early,Evening,Very little,Rarely,Science,Yes,High noise tolerance,Ask before sharing,Neat,Social & quiet,Background noise,Hint jokingly,Face-to-face,19,142,1.0
+Around midnight,at any time,Evening,Some,Rarely,Business,Maybe,Background noise,Ask before sharing,Clean and organized,Social & quiet,No preference,Blunt,Face-to-face,21,143,0.0
+After midnight,Somewhat early,Morning,Significant,Sometimes,Medicine,No,Very quiet,Ask before sharing,Cluttered,Social & quiet,Total quiet,Blunt,Face-to-face,18,144,1.0
+Around midnight,Somewhat early,Evening,Significant,Sometimes,Engineering,No,Background noise,Ask before sharing,Neat,Social gathering,Background noise,Calm,Face-to-face,19,145,0.0
+After midnight,Somewhat early,Evening,Some,Sometimes,Dentistry,Maybe,Background noise,Ask before sharing,Neat,Social & quiet,No preference,Blunt,Face-to-face,20,146,0.0
+at any time,Somewhat early,Evening,Significant,Sometimes,Pharmacy,Yes,Very quiet,Prefer personal items,Clean and organized,Study oriented,Total quiet,Avoid conflict,Face-to-face,19,147,1.0
+at any time,Somewhat early,Late night,Some,Often,Medicine,Yes,Very quiet,Share freely,Neat,Social & quiet,No preference,Avoid conflict,Face-to-face,19,148,1.0
+Around midnight,Very early,Morning,Significant,Sometimes,Medicine,No,Very quiet,Share freely,Clean and organized,Study oriented,Total quiet,Hint jokingly,Face-to-face,20,149,1.0
+Before midnight,Somewhat early,Evening,Some,Sometimes,Nursing,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,18,150,1.0
+at any time,Somewhat early,Morning,Significant,Sometimes,Pharmacy,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,18,151,1.0
+at any time,Very early,Evening,Some,Sometimes,Medicine,Yes,Very quiet,Share freely,Neat,Social & quiet,Total quiet,Calm,Text or messaging apps,18,152,1.0
+Before midnight,Somewhat early,Evening,Some,Sometimes,Medicine,Yes,Background noise,Ask before sharing,Neat,Social & quiet,No preference,Hint jokingly,Text or messaging apps,20,153,1.0
+After midnight,Somewhat early,Late night,Significant,Sometimes,Pharmacy,Yes,Very quiet,Prefer personal items,Neat,Study oriented,Total quiet,Blunt,Face-to-face,20,154,1.0
+at any time,at any time,Late night,Significant,Never,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Avoid conflict,Face-to-face,19,155,1.0
+Around midnight,Somewhat early,Evening,Significant,Rarely,Medicine,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Background noise,Calm,Face-to-face,19,156,1.0
+at any time,Very early,Morning,Some,Frequently,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Calm,Text or messaging apps,21,157,1.0
+Around midnight,Late,Evening,Some,Rarely,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Avoid conflict,Face-to-face,20,158,1.0
+Around midnight,Somewhat early,Late night,Very little,Sometimes,Computer Science,No,Very quiet,Prefer personal items,Neat,Social & quiet,Total quiet,Avoid conflict,Face-to-face,20,159,0.0
+at any time,at any time,Morning,Some,Sometimes,Pharmacy,Yes,Background noise,Ask before sharing,Neat,Social & quiet,Total quiet,Hint jokingly,Text or messaging apps,19,160,1.0
+at any time,at any time,Late night,Significant,Never,Pharmacy,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Hint jokingly,Face-to-face,19,161,1.0
+at any time,Somewhat early,Late night,Some,Never,Science,Yes,Background noise,Prefer personal items,Neat,Study oriented,No preference,Avoid conflict,Text or messaging apps,21,162,1.0
+Around midnight,Somewhat early,Morning,Significant,Sometimes,Pharmacy,Yes,High noise tolerance,Ask before sharing,Neat,Study oriented,Total quiet,Blunt,Face-to-face,20,163,1.0
+Around midnight,Somewhat early,Late night,Significant,Frequently,Medicine,No,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Calm,Face-to-face,18,164,1.0
+at any time,at any time,Late night,Some,Sometimes,Science,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Calm,Text or messaging apps,18,165,1.0
+at any time,at any time,Late night,Some,Rarely,Pharmacy,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Blunt,Face-to-face,20,166,1.0
+at any time,Somewhat early,Late night,Some,Frequently,Computer Science,Maybe,Background noise,Share freely,Clean and organized,Study oriented,No preference,Blunt,Face-to-face,20,167,0.0
+at any time,Very early,Late night,Significant,Sometimes,Dentistry,No,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,20,168,0.0
+at any time,at any time,Evening,Significant,Rarely,Medicine,Maybe,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Blunt,Face-to-face,20,169,1.0
+at any time,Somewhat early,Late night,Significant,Sometimes,Dentistry,No,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Blunt,Face-to-face,21,170,0.0
+at any time,Somewhat early,Evening,Some,Rarely,Medicine,Yes,Background noise,Share freely,Neat,Social & quiet,Total quiet,Calm,Face-to-face,21,171,1.0
+at any time,Somewhat early,Evening,Some,Rarely,Medicine,Yes,Background noise,Share freely,Neat,Social & quiet,Total quiet,Calm,Face-to-face,21,172,1.0
+at any time,Somewhat early,Evening,Some,Rarely,Pharmacy,Yes,Background noise,Share freely,Neat,Social & quiet,Total quiet,Calm,Face-to-face,20,173,1.0
+at any time,at any time,Late night,Very little,Frequently,Engineering,No,High noise tolerance,Share freely,Clean and organized,Social gathering,No preference,Avoid conflict,Face-to-face,22,174,
+at any time,Very early,Late night,Some,Never,Pharmacy,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Hint jokingly,Face-to-face,21,175,1.0
+at any time,Somewhat early,Morning,Significant,Sometimes,Dentistry,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Blunt,Face-to-face,20,176,0.0
+After midnight,Late,Morning,Some,Sometimes,Engineering,No,Very quiet,Share freely,Neat,Social & quiet,No preference,Blunt,Face-to-face,21,177,0.0
+Before midnight,Very early,Morning,Significant,Never,Pharmacy,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Hint jokingly,Face-to-face,19,178,1.0
+at any time,at any time,Evening,Some,Sometimes,Medicine,Maybe,Background noise,Ask before sharing,Neat,Social & quiet,No preference,Calm,Face-to-face,21,179,1.0
+at any time,Somewhat early,Late night,Significant,Sometimes,Science,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,20,180,1.0
+at any time,at any time,Evening,Very little,Rarely,Medicine,Maybe,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Blunt,Notes/letters,19,181,1.0
+Around midnight,Very early,Morning,Significant,Rarely,Pharmacy,Yes,Background noise,Ask before sharing,Neat,Social & quiet,Total quiet,Blunt,Face-to-face,19,182,1.0
+Before midnight,Very early,Morning,Significant,Sometimes,Engineering,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,20,183,0.0
+Around midnight,Somewhat early,Morning,Significant,Never,Dentistry,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Calm,Face-to-face,19,184,0.0
+Before midnight,at any time,Afternoon,Some,Never,Science,Yes,Very quiet,Prefer personal items,Neat,Study oriented,Total quiet,Hint jokingly,Face-to-face,20,185,1.0
+Around midnight,Very early,Late night,Some,Rarely,Nursing,No,High noise tolerance,Ask before sharing,Clean and organized,Study oriented,Background noise,Blunt,Face-to-face,19,186,1.0
+Around midnight,Somewhat early,Morning,Significant,Rarely,Dentistry,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Hint jokingly,Face-to-face,20,187,0.0
+at any time,at any time,Evening,Some,Sometimes,Pharmacy,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Avoid conflict,Face-to-face,20,188,1.0
+After midnight,at any time,Evening,Significant,Often,Science,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,No preference,Hint jokingly,Face-to-face,20,189,1.0
+Around midnight,Somewhat early,Evening,Some,Sometimes,Dentistry,No,Very quiet,Prefer personal items,Clean and organized,Social & quiet,Background noise,Blunt,Face-to-face,20,190,0.0
+at any time,at any time,Evening,Some,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Hint jokingly,Face-to-face,20,191,1.0
+Before midnight,Very early,Late night,Some,Often,Science,Yes,Background noise,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,21,192,1.0
+at any time,at any time,Late night,Significant,Rarely,Science,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,18,193,1.0
+After midnight,Very early,Evening,Some,Rarely,Pharmacy,No,Very quiet,Ask before sharing,Clean and organized,Social & quiet,No preference,Blunt,Face-to-face,20,194,1.0
+Around midnight,Somewhat early,Evening,Some,Rarely,Dentistry,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,20,195,0.0
+at any time,at any time,Evening,Some,Sometimes,Dentistry,No,High noise tolerance,Prefer personal items,Clean and organized,Social gathering,No preference,Blunt,Face-to-face,18,196,0.0
+at any time,Very early,Evening,Some,Rarely,Science,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,No preference,Calm,Face-to-face,18,197,1.0
+at any time,Somewhat early,Evening,Some,Rarely,Pharmacy,Yes,Very quiet,Share freely,Neat,Social & quiet,No preference,Blunt,Text or messaging apps,18,198,1.0
+After midnight,As late as possible,Evening,Significant,Never,Medicine,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Avoid conflict,Face-to-face,21,199,1.0
+at any time,Somewhat early,Evening,Some,Frequently,Pharmacy,No,Very quiet,Share freely,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,20,200,1.0
+at any time,at any time,Evening,Some,Sometimes,Dentistry,No,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Calm,Face-to-face,21,201,0.0
+at any time,at any time,Late night,Some,Sometimes,Dentistry,No,Background noise,Share freely,Neat,Study oriented,Background noise,Calm,Face-to-face,19,202,0.0
+at any time,at any time,Morning,Significant,Sometimes,Pharmacy,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Avoid conflict,Face-to-face,18,203,1.0
+at any time,Somewhat early,Evening,Some,Sometimes,Nursing,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,19,204,1.0
+at any time,at any time,Evening,Significant,Sometimes,Nursing,Yes,Very quiet,Share freely,Neat,Social & quiet,No preference,Avoid conflict,Face-to-face,19,205,1.0
+at any time,at any time,Evening,Some,Sometimes,Medicine,Yes,Background noise,Ask before sharing,Clean and organized,Social & quiet,No preference,Blunt,Face-to-face,21,206,1.0
+at any time,at any time,Morning,Some,Often,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,No preference,Hint jokingly,Face-to-face,20,207,1.0
+Around midnight,Very early,Morning,Some,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,20,208,1.0
+Around midnight,Somewhat early,Morning,Some,Rarely,Dentistry,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,No preference,Blunt,Text or messaging apps,18,209,0.0
+at any time,Somewhat early,Late night,Some,Rarely,Dentistry,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Avoid conflict,Text or messaging apps,19,210,0.0
+at any time,Somewhat early,Late night,Some,Sometimes,Dentistry,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Calm,Face-to-face,19,211,0.0
+Around midnight,Somewhat early,Evening,Significant,Sometimes,Dentistry,Maybe,Very quiet,Prefer personal items,Neat,Study oriented,Total quiet,Avoid conflict,Text or messaging apps,19,212,0.0
+at any time,Very early,Late night,Some,Rarely,Dentistry,No,Very quiet,Ask before sharing,Cluttered,Study oriented,Total quiet,Hint jokingly,Text or messaging apps,19,213,0.0
+Around midnight,Somewhat early,Evening,Some,Never,Medicine,Yes,Background noise,Share freely,Neat,Study oriented,Total quiet,Hint jokingly,Face-to-face,19,214,1.0
+at any time,at any time,Late night,Some,Sometimes,Dentistry,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,18,215,0.0
+After midnight,As late as possible,Evening,Some,Frequently,Science,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Avoid conflict,Face-to-face,18,216,1.0
+at any time,at any time,Evening,Significant,Sometimes,Engineering,Yes,Very quiet,Share freely,Neat,Study oriented,No preference,Blunt,Face-to-face,21,217,0.0
+Before midnight,Very early,Afternoon,Significant,Rarely,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,18,218,1.0
+Around midnight,Somewhat early,Evening,Very little,Sometimes,Medicine,Yes,Very quiet,Share freely,Neat,Social & quiet,Total quiet,Hint jokingly,Face-to-face,19,219,1.0
+at any time,at any time,Evening,Some,Sometimes,Medicine,Yes,Background noise,Ask before sharing,Neat,Social & quiet,Total quiet,Calm,Face-to-face,20,220,1.0
+at any time,at any time,Evening,Some,Sometimes,Science,Yes,Background noise,Ask before sharing,Neat,Social & quiet,Background noise,Calm,Face-to-face,18,221,1.0
+Before midnight,Very early,Late night,Significant,Rarely,Engineering,Yes,Very quiet,Prefer personal items,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,19,222,0.0
+After midnight,Somewhat early,Morning,Some,Sometimes,Medicine,Yes,Very quiet,Share freely,Neat,Social & quiet,Total quiet,Calm,Face-to-face,20,223,1.0
+Before midnight,Somewhat early,Morning,Significant,Often,Dentistry,Yes,Very quiet,Ask before sharing,Cluttered,Study oriented,No preference,Hint jokingly,Face-to-face,19,224,0.0
+at any time,at any time,Evening,Some,Rarely,Health Sciences,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Blunt,Face-to-face,19,225,1.0
+at any time,Somewhat early,Morning,Some,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Cluttered,Study oriented,Total quiet,Hint jokingly,Text or messaging apps,18,226,1.0
+After midnight,Somewhat early,Evening,Some,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Neat,Social & quiet,Background noise,Hint jokingly,Face-to-face,20,227,1.0
+at any time,at any time,Evening,Some,Sometimes,Dentistry,No,Background noise,Ask before sharing,Neat,Social & quiet,Background noise,Avoid conflict,Text or messaging apps,18,228,0.0
+at any time,at any time,Morning,Some,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,19,229,1.0
+at any time,Somewhat early,Evening,Significant,Often,Health Sciences,Yes,Very quiet,Prefer personal items,Clean and organized,Study oriented,No preference,Avoid conflict,Face-to-face,19,230,1.0
+at any time,Somewhat early,Evening,Some,Sometimes,Dentistry,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Blunt,Face-to-face,20,231,0.0
+Before midnight,Somewhat early,Evening,Significant,Rarely,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Blunt,Face-to-face,19,232,1.0
+at any time,at any time,Late night,Some,Sometimes,Pharmacy,Maybe,Very quiet,Ask before sharing,Neat,Social & quiet,Total quiet,Calm,Text or messaging apps,19,233,1.0
+Around midnight,at any time,Evening,Some,Rarely,Medicine,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Avoid conflict,Face-to-face,18,234,1.0
+at any time,Somewhat early,Evening,Significant,Sometimes,Business,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Avoid conflict,Face-to-face,19,235,0.0
+at any time,Somewhat early,Afternoon,Significant,Rarely,Business,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,18,236,0.0
+Before midnight,Somewhat early,Evening,Some,Sometimes,Pharmacy,Maybe,Background noise,Share freely,Neat,Social & quiet,No preference,Calm,Notes/letters,19,237,1.0
+Before midnight,Somewhat early,Morning,Some,Sometimes,Dentistry,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Blunt,Face-to-face,19,238,0.0
+Around midnight,Somewhat early,Evening,Very little,Rarely,Engineering,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Blunt,Face-to-face,21,239,0.0
+at any time,at any time,Evening,Some,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Avoid conflict,Face-to-face,19,240,1.0
+After midnight,Somewhat early,Evening,Very little,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Hint jokingly,Face-to-face,18,241,1.0
+at any time,at any time,Late night,Significant,Rarely,Dentistry,Yes,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Calm,Text or messaging apps,18,242,0.0
+at any time,at any time,Evening,Some,Rarely,Science,Yes,Very quiet,Prefer personal items,Clean and organized,Study oriented,Total quiet,Blunt,Face-to-face,19,243,1.0
+Around midnight,Very early,Morning,Significant,Never,Medicine,Yes,Very quiet,Prefer personal items,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,19,244,1.0
+at any time,at any time,Evening,Significant,Sometimes,Dentistry,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Avoid conflict,Text or messaging apps,18,245,0.0
+Before midnight,Somewhat early,Morning,Significant,Sometimes,Medicine,Yes,Very quiet,Prefer personal items,Clean and organized,Study oriented,Total quiet,Calm,Face-to-face,19,246,1.0
+Around midnight,Somewhat early,Evening,Significant,Rarely,Medicine,Yes,Very quiet,Ask before sharing,Neat,Study oriented,No preference,Hint jokingly,Face-to-face,19,247,1.0
+Before midnight,Very early,Afternoon,Some,Sometimes,Computer Science,Yes,Background noise,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Hint jokingly,Face-to-face,19,248,0.0
+at any time,at any time,Evening,Some,Rarely,Medicine,Yes,Background noise,Ask before sharing,Neat,Social & quiet,No preference,Hint jokingly,Face-to-face,19,249,1.0
+Around midnight,Somewhat early,Afternoon,Some,Sometimes,Medicine,No,Very quiet,Ask before sharing,Clean and organized,Study oriented,Total quiet,Avoid conflict,Face-to-face,20,250,1.0
+at any time,Very early,Evening,Significant,Often,Engineering,Yes,Background noise,Ask before sharing,Neat,Social & quiet,Background noise,Blunt,Face-to-face,18,251,0.0
+at any time,at any time,Morning,Significant,Sometimes,Medicine,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Calm,Face-to-face,19,252,1.0
+After midnight,Somewhat early,Evening,Significant,Often,Medicine,Yes,Background noise,Ask before sharing,Neat,Study oriented,Background noise,Calm,Text or messaging apps,19,253,1.0
+Before midnight,Somewhat early,Morning,Significant,Rarely,Computer Science,Yes,Very quiet,Ask before sharing,Neat,Study oriented,Total quiet,Avoid conflict,Face-to-face,20,254,0.0
+at any time,at any time,Late night,Some,Sometimes,Engineering,Maybe,Background noise,Prefer personal items,Neat,Study oriented,No preference,Blunt,Face-to-face,23,255,
+After midnight,Somewhat early,Late night,Some,Rarely,Computer Science,Yes,Very quiet,Prefer personal items,Cluttered,Social & quiet,Background noise,Avoid conflict,Face-to-face,23,256,
+at any time,at any time,Evening,Significant,Sometimes,Computer Science,Yes,Very quiet,Ask before sharing,Clean and organized,Social & quiet,Total quiet,Hint jokingly,Face-to-face,22,257,
